@@ -46,7 +46,7 @@ or NameError. (Figure 4)
 ![Figure 4](https://github.com/markdazab/IntroToProg-Python-Mod7/blob/main/Figures/Figure4.png "Figure4")  
 Figure 4. Scrip for write_data_to_file function
 
-#Summary
+# Summary
 This week’s assignment was challenging because it differed from all previous weeks. I thrive when provided with a clear expectation, and when left to figure
 out my goal on my own, I tend to overthink a lot. For example, for this week’s assignment, I pictured my code including a loop have a user to re-enter a 
 value for the variables if an exception was raised. I spent hours working on this, failing to make it work I decided to go with what I described in this 
